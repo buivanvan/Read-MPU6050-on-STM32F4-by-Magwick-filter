@@ -1,0 +1,9 @@
+# Keil user settings and build outputs
+*.uvguix.*
+/MDK-ARM/MPU6050/
+/MDK-ARM/Listings/
+/MDK-ARM/Objects/
+
+# Python bytecode
+__pycache__/
+*.pyc
